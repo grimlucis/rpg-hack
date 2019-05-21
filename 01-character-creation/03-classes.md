@@ -70,10 +70,10 @@ place under the table, and a worthy addition to any team of adventurers.
 
 Template |             Bonus
 ---------|-------------------------------
-	A    | Rage, +1 Fighting Style
-	B    | Danger Sense, A Taste of Home
-	C    | Feat of Strength, Die Hard
-	D    | Tough, +1 Fighting Style
+A    | Rage, +1 Fighting Style
+B    | Danger Sense, A Taste of Home
+C    | Feat of Strength, Die Hard
+D    | Tough, +1 Fighting Style
 
 You gain +2 HP for each Barbarian template you possess. You get +1 Stealth if
 you possess 2 Barbarian templates.
@@ -129,10 +129,10 @@ your heraldry. Horse. 10 silver pieces.
 
 Template |             Bonus
 ---------|-------------------------------
-	A    | Challenge, +1 Fighting Style
-	B    | Bodyguard, +1 attack per round
-	C    | Parry, +1 Fighting Style
-	D    | Aura of Courage, Dragon Slayer
+A    | Challenge, +1 Fighting Style
+B    | Bodyguard, +1 attack per round
+C    | Parry, +1 Fighting Style
+D    | Aura of Courage, Dragon Slayer
 
 Knights are trained in **Fighting Styles** by masters-at-arms, and thus will
 only learn "honorable" styles; sword-and-board or maybe blunt weapons are a
@@ -200,10 +200,10 @@ down and with your last breath seize your prize.
 
 Template |                  Bonus
 ---------|---------------------------------------------
-	A    | +2 Old Wounds, Pangs, Vow, +1 Fighting Style
-	B    | Drinking Buddies, Weathered, +1 Attack
-	C    | Scores, Recall, +1 Fighting Style
-	D    | Venerable Glory, +1 Attack
+A    | +2 Old Wounds, Pangs, Vow, +1 Fighting Style
+B    | Drinking Buddies, Weathered, +1 Attack
+C    | Scores, Recall, +1 Fighting Style
+D    | Venerable Glory, +1 Attack
 
 **Old Wounds** are the injury you suffered in your previous life come back to
 haunt you. Fragments of your skills remain, but using them risks tearing
@@ -356,10 +356,10 @@ items.
 
 Template |                       Bonus
 ---------|------------------------------------------------------
-	A    | +1 MD, +1 Spell Slot, +2 Spells (1-6), Spell Breeding
-	B    | +1 MD, +1 Spell Slot, +1 Spell (1-8), Book Casting
-	C    | +1 MD, +1 Spell Slot +1 Spell (1-10), Friendly Spell
-	D    | +1 MD, +1 Spell Slot, Master of Magics
+A    | +1 MD, +1 Spell Slot, +2 Spells (1-6), Spell Breeding
+B    | +1 MD, +1 Spell Slot, +1 Spell (1-8), Book Casting
+C    | +1 MD, +1 Spell Slot +1 Spell (1-10), Friendly Spell
+D    | +1 MD, +1 Spell Slot, Master of Magics
 
 You gain +1 Magic Die (MD) and +1 Spell Slot for each Wizard template you
 possess, to a maximum of 4 each.
