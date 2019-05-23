@@ -1,4 +1,4 @@
-# Playing GLOG with d6s only
+## Playing GLOG with d6s only
 
 Six-sided dice are the most common dice, and are easily obtained. So, it makes
 sense that rules should exist for playing with only d6s. The distributions are

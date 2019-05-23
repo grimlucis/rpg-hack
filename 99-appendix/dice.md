@@ -1,10 +1,10 @@
-# Dice hacking
+## Dice hacking
 
 Ultimately for all but the rarest games, all you need is a polydice set.
 
 Here's a guide for those rarest of games.
 
-## Dice tier list
+### Dice tier list
 
 Based on how common they are.
 
@@ -15,25 +15,25 @@ Based on how common they are.
 4. Zocchi dice - Rare, but not unheard of.
 5. Anything else.
 
-## Methods
+### Methods
 
 Some common methods will help you to get the dice roll you want.
 
-### Reroll method
+#### Reroll method
 
 If you have a die with a greater number of sides than desired, you can roll that
 die, rerolling if the value is greater than the number of sides.
 
 For example, to get a d5, roll a d6 and reroll if you get a 6.
 
-### Half method
+#### Half method
 
 For a die dN, if you have a die d(2N), you can use this trick. Roll the d2N. If
 greater than N, subtract N from the result.
 
 For example, to get a d5, roll a d10. If you get 6 or more, subtract 5.
 
-### Double method
+#### Double method
 
 For a die dN, if you have a die d(N/2), you can use this trick. Roll the d(N/2)
 and flip a coin; if tails, add N/2 to the result.
@@ -42,7 +42,7 @@ For example, you want to roll a d12 but only have a d6 and a coin. Roll the d6
 and flip the coin. You roll a 5, and the coin comes up tails, so add 6 - you roll
 an 11.
 
-### Pseudo-percentile method
+#### Pseudo-percentile method
 
 This works for any N divisible by 10, e.g. d20, d30, d40...
 
@@ -50,7 +50,7 @@ Use a d(N/10) for the tens digit, and a d10 for the units digit. If the tens
 digit scores N/10, take it as a zero. If both the tens and units digits come up 0,
 take it as N.
 
-### Coin method
+#### Coin method
 
 The last ditch method. This can roll any die dN, provided you have enough coins.
 
@@ -62,7 +62,7 @@ The last ditch method. This can roll any die dN, provided you have enough coins.
 For example, to get a d5, flip four coins. The value is the number of heads you
 get plus 1 (producing 1-5 with an even distribution).
 
-## Dice alternative table
+### Dice alternative table
 
 Die  | Polydice? | Zocchi? | Alternative
 -----|-----------|---------|------------
