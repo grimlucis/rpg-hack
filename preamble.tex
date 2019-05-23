@@ -1,0 +1,22 @@
+% Custom latex goes here
+
+% geometry - smaller margins so more text is on screen
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
+% fancyhdr - make headers and footers nice
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE, RO]{\leftmark}
+\fancyfoot[LE, RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand\chaptermark[1]{\markboth{#1}{}}
+\renewcommand\sectionmark[1]{\markright{\thesection.\ #1}}
+\fancypagestyle{plain}{}
