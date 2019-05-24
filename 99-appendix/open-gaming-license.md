@@ -9,7 +9,8 @@ Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 	(a)"Contributors" means the copyright and/or trademark owners who have 
 	contributed Open Game Content;
 	(b)"Derivative Material" means copyrighted material including 
-	derivative works and translations (including into other computer languages), 	potation, modification, correction, addition, extension, upgrade, 
+	derivative works and translations (including into other computer languages),
+	potation, modification, correction, addition, extension, upgrade,
 	improvement, compilation, abridgment or other form in which an existing work
 	may be recast, transformed or adapted;
 	(c) "Distribute" means to reproduce, license, rent, lease, sell, 
