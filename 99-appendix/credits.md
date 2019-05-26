@@ -9,8 +9,8 @@ License in the appendix.
 GLOG original rules and concept by Arnold Kemp at [Goblin
 Punch.](https://goblinpunch.blogspot.com/)
 
-Setting ideas, Knight & Barbarian classes, lots of flavour text, and many extra
-house rules come from Skerples at [Coins and
+Setting ideas, Knight & Barbarian classes, lots of flavour text, lots of tables,
+and many extra house rules come from Skerples at [Coins and
 Scrolls.](https://coinsandscrolls.blogspot.com/)
 
 Ability scores and concise rules from the MiniGLOG hack, hosted at [The Library
