@@ -25,6 +25,13 @@ Miscreants.](https://docs.google.com/document/d/104Zgs7DzWrfKg6FfMLSVnqzHjoRXLmi
 Witch class cribbed from [Throne of
 Salt.](https://throneofsalt.blogspot.com/2018/02/class-witch.html)
 
+The Bard and The Jack class cribbed from [A Blasted, Cratered
+Land.](https://crateredland.blogspot.com/)
+
+Punk Rock genre from [Same Is Shark In Japanese.](https://sameissharkinjapanese.blogspot.com/)
+
+Vaporwave genre from [A Swamp In Space.](https://aswampinspace.blogspot.com)
+
 Thanks to the OSR community for helping with:
 
 - Stat blocks for monsters

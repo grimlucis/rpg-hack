@@ -771,3 +771,201 @@ Clearsight Lake, or by delivering an accurate omen to a king and watching the
 fallout to the end.
 
 ### The Clergy
+
+### The Rogues
+
+Many of the other adventurers have something special about them; a magical
+talent, a connection with the gods, or just a knack for violence. But there is a
+place in an adventuring party for an ordinary person who approaches problems a
+little more creatively than others.
+
+These people are more than a little sketchy, existing on the fringes of society,
+probably have a bounty on their head in some towns but are local heroes in
+others. Whatever their call to adventuring they share a certain uniqueness, and
+provide for the player a fun, different playing style.
+
+#### The Bard
+
+You've always had a talent for singing. In fact, you can sing so well, word of
+your talents spread beyond your hometown, attracting the attention of a master
+bard. Before you knew it, you had an instrument in hand, and were learning how
+to *really* sing.
+
+Talented bards can expect to perform for at least a warm bed and a hot meal;
+*really* talented bards are sought after by kings and noblemen. To be one of
+these, you'll need a song to sing; or rather, a repertoire. Where better to find
+stories of which to sing than on the road adventuring?
+
+**Starting Equipment:** Instrument of choice, pile of assorted sheet music,
+parchment, quill and ink, earplugs for your party members
+
+Template |                       Bonus
+---------|------------------------------------------------------
+A    | Music is Magic, Genre, 2 Songs
+B    | Busking, +2 Songs
+C    | Groupies, +2 Songs
+D    | Arena Anthems, +2 Songs
+
+**Music is Magic:** You can sing magic songs. Even when you're singing mundane
+songs, you can evoke powerful but nonspecific emotions in all listeners by
+expending a Music Die (you can make listeners feel amorous, but not towards
+particular people; you can make listeners feel deeply sad, but not
+suicidal). Whenever a significant event happens around you (the death of a party
+member, a climactic battle, a budding or dying romance, etc.), you can write a
+new song about it. Bards can teach each other bards magic songs, even outside
+their genres.
+
+**Genre:** Pick a Genre (See section 6.3: Musical Genres). You have its Genre
+perk and learn your songs from it.
+
+**Busking:** During a long rest in town, you can spend your time busking on
+street corners and in market squares to get (Bard level)d6 gold in assorted
+small change from passers-by, as well as a local rumor.
+
+**Groupies:** You can play a gig in town or anywhere with a sympathetic
+audience. It attracts (Bard level)d6 audience members (increase or decrease the
+die size for larger or smaller venues), and Bard level of them will come along
+with you as groupies. They won't usually put themselves in harm's way, but
+they'll do minor tasks for you and carry your stuff. Whenever you give them a
+Bad Vibe, one leaves. They'll all disperse when you go back to town, but might
+sign back on at your next gig.
+
+**Arena Anthems:** Your voice and songs can carry for up to a mile.
+
+**Music Rules**
+
+You have MD (Music Dice) equal to your Bard level plus one. Songs
+begin at 1 Intensity, and as you play a song, you have 3 chances (one each
+round) to expend any number of MD to try to boost the Intensity (this doesn't
+take an extra action, it's part of playing the song). To do so, roll the MD
+you're using. If one or more of your MD show a 4-6, boost the song and increase
+its dice by 1, then expend the die. Any dice that roll 1-3 are returned to your
+pool. If you roll a 1, there's a Bad Vibe, which might end the song entirely. MD
+return on a short rest.
+
+**Bad Vibes:**
+
+1. Burnout. You can't sing this song for the rest of the day, and have to stop
+   immediately.
+2. Hoarse. Lose your ability to sing above a whisper. Until you spend a day
+   recuperating, no one besides you can hear your songs.
+3. Snapped. Your instrument breaks and is unusable until you spend a short rest
+   repairing it.
+4. Lost The Tune. Invert the effect of the song this round, then it ends.
+5. Voice Crack. Anyone listening can voluntarily ignore the effects of the song,
+   and any further songs you sing, until the end of the day.
+6. Earworm. You can't sing any other songs for the rest of the day.
+
+When you take damage the song decreases in Intensity by 1 die, unless you have
+other Bards backing you up and covering for you. If this brings it to 0, the
+song ends. Taking actions that would interrupt the song end it entirely.
+
+Additional Bards playing the same song can expend MD to nullify Bad Vibes. Bards
+can join in on any song a Bard with the same Genre is playing whether or not
+they know it, but they can't boost it unless they know it too, just salvage it.
+
+#### The Jack
+
+You're not particularly strong, or skilled with a sword. You haven't got any
+magical talent. If the gods are real, they probably don't think much of you.
+You're not even any good at stealing things, and while you may have a nice
+singing voice you're not going to be doing anything otherworldly with it.  What
+you do have is a silver tongue, a lover in every port, an effortlessness in
+social situations that is the envy of even other rogues.
+
+Being a Jack is all about knowing the right people and the right skills to solve
+any problem. Some call you a Fixer; because you're the type of person that gets
+shit done.
+
+**Starting Equipment:** Weapon of choice small enough to hide under your clothes
+(daggers yes, battleaxes no), fancy clothes (3 sets), hireling buddy you
+convinced to go on this adventure against their better judgment
+
+Template |                       Bonus
+---------|------------------------------------------------------
+A    | I Know a Guy, Trustworthy Face, 2 Contact Dice
+B    | Con Artist, +1 CD
+C    | Lover Not a Fighter, +1 CD
+D    | Fake It 'Til You Make It, +1 CD
+
+I Know a Guy: You have Contact Dice, which are d6s. Spend them to realize you
+know or get to know someone in a location, and roll 1 die for each feature you
+want them to have. The extent and usefulness of the feature is based on how well
+you roll. You can spend multiple dice on one feature to take the highest of
+those dice. If you roll doubles when making a Contact, also roll a
+Complication. Spent Contact Dice return on a long rest, or when you enter a new
+town.
+
+**Sample Features:**
+
+- Information: 1. Common local wisdom → 6. Secrets known to few
+- Item: 1. With some creative thinking, what they have might be useful
+  → 6. They've got exactly what you need and more
+- Location: 1. Temporary access to a generic kind of place you're looking for
+  → 6. Round-the-clock access to the exact venue you need
+- Relationship: 1. You met once, a long time ago → 6. You've been close since
+  childhood
+- Skill: 1. Decent at a relevant skill → 6. Multiple class levels
+- Status: 1. Trusted by locals → 6. Official title and position of power
+
+**Complications:**
+
+1. They want a favor from you before they help you out.
+2. They're laying low and can't do anything that'd attract attention.
+3. They're harder to reach than usual, perhaps temporarily in prison, or on a
+   trip out of town.
+4. They're doing something you find distasteful, perhaps at cross purposes to
+   your aims.
+5. They're working with/in a relationship with someone who doesn't like you,
+   who'll be around making their own demands.
+6. Their value to you has been misrepresented somehow. Decrease their highest
+   feature by 2.
+
+**Trustworthy Face:** If you aren't in open combat with someone, they're going
+to be a little less hostile to you (but not necessarily the rest of the party)
+than they would be to your average murderhobo. If you speak their language,
+upgrade their reaction to you by one category, or downgrade it if you want to.
+
+**Con Artist:** So long as no one can verify what you’re saying is wrong, you
+can lie through your teeth and they’ll believe you for at least d6 minutes. You
+can walk through somewhere unquestioned if you look like you belong and don't
+act suspicious for at least d6 hours, so long as you don't start talking to
+people. With a daily rest of practice and study, you can learn the basics of a
+skill to the point where untrained onlookers will believe you know what you're
+doing until you fail a roll. Expires on your next daily rest.
+
+**Lover Not a Fighter:** You can make attacks with Charisma vs. your enemy's
+Wisdom if they speak your language. If you do, the attack inflicts Stress
+instead of damage. You may make the penalty for failing the Stress roll changing
+their reaction by 1, instead of Cracking.
+
+**Fake It 'Til You Make It:** If you get a long rest of training from someone
+with levels in a class, you can use that class's level 1 abilities until you
+fail a roll on them. Can't do it again until you go back and get pointers on how
+to do it during a long rest in town. You can have access to multiple fake
+classes at once, but you can't get abilities above level 1.
+
+2d6|Reaction
+---|--------
+2-3| Hostile
+4-5| Unfriendly
+6-8| Wary
+9-10| Friendly
+11-12| Trusting
+
+For when you need to apply Trustworthy Face/Lover Not a Fighter, or figure out
+the kind of first impressions an NPC gets of the party. Obviously as a GM you
+can apply whatever bonuses/penalty you want, rule out certain reactions for
+things like dragons or drow, or just set reactions at your whim.
+
+These can mean different things based on the context! With a shopkeeper,
+Unfriendly might mean a significant markup for the heavily armed murderhobos who
+cause nothing but trouble; Hostility might be outright refusal of service. With
+a pack of dire wolves, Trusting could mean they see a fellow pack, and treat you
+as they would another band of wolves they're on good terms with.
+
+If multiple individuals in a group have different Reactions, they might fall
+into infighting or argument between each other. A Jack who uses their Lover Not
+a Fighter skills to turn a gang of bandits against each other is a force to be
+reckoned with. Getting a leader to change their reaction is likely to get the
+rest of the group to change their opinions - or fight each other.
