@@ -180,6 +180,7 @@ Gambeson   | Light  |      11
 Leather    | Light  |      12
 Studded    | Light  |      13
 Chainmail  | Medium |      14
+Splintmail | Heavy  |      15
 Plate      | Heavy  |      16
 
 Chainmail cannot be made from bronze, and bronze plate only grants 15 Defense.
