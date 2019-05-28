@@ -1,10 +1,11 @@
 all: glog.pdf
+FILES=$(shell find [0-9]* -type f | sort)
 
-glog.pdf: glog.md
-	pandoc -N -H preamble.tex --top-level-division=chapter glog.md --pdf-engine=xelatex --toc -o glog.pdf
+glog.pdf: ${FILES}
+	pandoc -N -H preamble.tex --top-level-division=chapter $^ --pdf-engine=xelatex --toc -o $@
 
-glog.md:
-	find [0-9]* -type f | sort | xargs -I FILES awk 'FNR==1{print ""}1' FILES > glog.md
+glog.md: ${FILES}
+	awk 'FNR==1{print ""}1' $^ > $@
 
 clean:
 	rm -rf glog.md glog.pdf
