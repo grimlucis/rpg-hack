@@ -53,3 +53,59 @@ score is, at the GM's discretion, either:
 
 - The average of STR and CON, i.e. (STR+CON)/2
 - The higher of STR or CON
+
+### Class conversion
+
+In general, the classes given are categorised as to line up with the classic
+Fighter/Mage/Cleric/Thief schtick, and can be converted as such.
+
+Specifically:
+
+- Veterans are Fighters
+- Barbarians are either Fighters or Barbarians
+- Wizards of the various schools can be converted to Magic-Users with an
+  appropriate selection of spells
+- Skalds are Clerics that use CHA instead of WIS/WIL
+- Missionaries are either Monks or Clerics
+- Jacks are Thieves/Rogues
+- Bards are either straight Bards, Magic-Users with appropriate spells that cast
+  by singing and with CHA instead of INT/TAL, or Thieves/Rogues
+
+When converting to Whitehack, keep the way the character is played in mind when
+converting; of course, the Deft/Strong/Wise trio maps quite nicely onto
+Thief/Fighter/Mage.
+
+### Race conversion
+
+When converting from the GLOG to another system:
+
+- Humans convert as-is; other games have reasons to pick them
+- Fey can be treated as elves
+- If available, Infernals can be treated as tieflings or half-elves; otherwise,
+  as elves
+- Kobolds can be treated as halflings or gnomes with Draconic as their racial
+  language
+- Cat-folk, Raven-folk, Fox-folk and Owl-folk can be treated as humans with
+  special attributes
+- Dog-folk and Hyena-folk can be treated as half-orcs
+
+When converting to the GLOG from another system, keep in mind Andrew K's
+philosophy on designing races:
+
+- GLOG Design Rule #48: Race abilities/bonuses should not synergize with class
+  abilities/bonuses.
+- GLOG Design Rule #3: Never use small, passive bonuses.  They're boring, easy
+  to overlook, potentially confusing, and often lead to synergy.  Use active
+  abilities instead.  (What Extra Credits calls "incomparables".)
+
+Here's a quick table of "classic" races not included in the base rules, courtesy
+of Throne of Salt:
+
+Race    | Reroll | Perk                                  | Drawback
+--------|--------|---------------------------------------|---------
+Elf     | DEX    |+2 to Stealth in natural cover         | Terrified of ugly things
+Dwarf   | STR    |Can identify origin of worked items    | No booze = exhaustion
+Half-orc| STR    |Extra attack after drawing first blood | Cursed by the orc gods
+Half-elf| CHA    |+2 to Save vs magic                    | Hated by domestic animals
+Halfling| DEX    |Lucky: rerolls a 1, 1/day				 | Save vs lost in cities
+Gnome   | TAL    |+2 to understand, repair, and build mechanical devices | Enemies may choose to punt
