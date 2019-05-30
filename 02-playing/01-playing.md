@@ -364,7 +364,8 @@ take to safety grants you a single experience point. However, this only works if
 you obtain the treasure through adventurous means! So taxes from your lordly
 holdings, ransoms from characters you didn't vanquish in battle, earnings from
 trade (including items created by magical spells such as *Woman's Work*) or
-wages from "honest work".
+wages from "honest work" such as woodcutting, farming, or mining do not count
+towards your next experience level.
 
 You also get 1 XP for each 1sp you spend on non-adventuring items. For example,
 buying a round of drinks for the locals (a good way to make friends, for sure)
