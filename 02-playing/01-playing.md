@@ -316,24 +316,29 @@ the Third Doom from the wand's school, which usually means instant death.
 
 Wizards can smell magic in the air. By tasting, rubbing, or closely inspecting
 an item, you can tell if it is magic. You may need to test the item to determine
-what type of magic. You can test Intelligence to see if you can learn anything
-else about the item without testing it.
+what type of magic. You can test Talent to see if you can learn anything else
+about the item without testing it.
 
 Fey, even if they aren't spellcasters, can *see* magic and magical items, though
 they'll still need a professional opinion to tell what it does.
 
 ### Mishaps
 
-If you roll doubles while casting a spell, roll on your school's mishap
+If you roll doubles while casting a spell, roll on your school's Mishap
 table. Unless otherwise specified, the spell still works. Magic is dangerous;
 this was just a hiccough or misfire.
 
 ### Dooms
 
 If you roll triples while casting a spell, one of your school's Dooms takes
-effect. Each school has 3 dooms. The third doom is invariably fatal or
-worse. All wizards walk a dangerous path. The burn their soul s like candles,
+effect. Each school has 3 Dooms. The third Doom is invariably fatal or
+worse. All wizards walk a dangerous path. The burn their souls like candles,
 and in doing so, court damnation.
+
+If you complete the quest mentioned at the bottom of your school's list of
+Dooms, which the GM is advised to make very difficult even for high-level
+players, you are free from Dooms from that school forever. Whenever you would
+take a Doom, instead roll on the Mishap table twice and take the higher roll.
 
 ## Advancing in level
 

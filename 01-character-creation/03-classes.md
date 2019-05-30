@@ -97,7 +97,7 @@ injured you this fight, they count as an enemy.
 
 **Danger Sense:** If you are surprised, you have a 50% chance to act on the
 surprise round anyway. If you encounter a creature no one in the group has seen
-before, you can roll under your Intelligence to remember a detail or weakness,
+before, you can roll under your Talent to remember a detail or weakness,
 provided the creature is not unique.
 
 **A Taste of Home:** You can consume a special ration to regain 1d6+1 HP. This
@@ -505,7 +505,7 @@ colours. Your magic supplies the 8th: octarine, the color of magic.
 
 1. Create a shower of illusory sparks or a puff of illusory smoke from your
    hands.
-2. Touch another caster’s illusion and make and Opposed Intelligence check. If
+2. Touch another caster’s illusion and make and Opposed Talent check. If
    you succeed, you gain control of the illusion.
 3. You always know the position of the sun in the sky.
 
@@ -540,7 +540,7 @@ from the undernourished spell.
 4. Blind for 1d6 rounds
 5. All sighted creatures are invisible to you for 24hrs.
 6. Eruption of random illusions from your hands. Everyone in LOS must make a
-   Wisdom check to do anything relying on sight for 1d6 rounds.
+   WIL check to do anything relying on sight for 1d6 rounds.
 
 **Doom of the Illusionist:**
 
@@ -631,7 +631,7 @@ both the caster and their companion. Raise ye not up what ye cannot put down.
 4. Save vs Fear against the target of your spell. 1d6 rounds. Target is fully
    healed if undead.
 5. 1d6 nearby corpses raise as zombies and attack you for 1d6 rounds.
-6. You die. Save vs Intelligence every hour to find your way back to your body.
+6. You die. Make a TAL check every hour to find your way back to your body.
 
 **Doom of the Necromancer:**
 
@@ -934,10 +934,10 @@ people. With a daily rest of practice and study, you can learn the basics of a
 skill to the point where untrained onlookers will believe you know what you're
 doing until you fail a roll. Expires on your next daily rest.
 
-**Lover Not a Fighter:** You can make attacks with Charisma vs. your enemy's
-Wisdom if they speak your language. If you do, the attack inflicts Stress
-instead of damage. You may make the penalty for failing the Stress roll changing
-their reaction by 1, instead of Cracking.
+**Lover Not a Fighter:** You can make attacks with Charisma vs. your enemy's WIL
+if they speak your language. If you do, the attack inflicts Stress instead of
+damage. You may make the penalty for failing the Stress roll changing their
+reaction by 1, instead of Cracking.
 
 **Fake It 'Til You Make It:** If you get a long rest of training from someone
 with levels in a class, you can use that class's level 1 abilities until you
