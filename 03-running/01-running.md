@@ -44,10 +44,10 @@ halved.
 or Cha (random). 30% chance of coma.  Characters in a coma get two chances to
 recover, after 1d6 days and 1d6 weeks.
 
-**Crushed:** Gored 2d6 weeks. Save or permanently lose 1 point of Str, Dex, or
-Con (random). 30% chance of paralysis (equal chance of paraplegy or
-quadriplegy). Paralyzed characters get a saving throw to recover fully after 1d6
-days and 1d6 weeks.  If both fail, permanent.
+**Crushed:** Gored 2d6 weeks. Save or permanently lose 1 point of STR or DEX
+(random). 30% chance of paralysis (equal chance of paraplegy or quadriplegy).
+Paralyzed characters get a saving throw to recover fully after 1d6 days and 1d6
+weeks.  If both fail, permanent.
 
 **Dazed:** Waste a turn trying to synchronize your blinks.
 

@@ -38,3 +38,18 @@ Notes:
 - 3E AC values are ridiculously buffed, certainly for strong creatures such as
   dragons. The 5E conversion guide recommends nerfing it by 20%, which seems
   adequate. You can then use the 5E table to convert to OSR.
+
+### Attributes
+
+Where other games have Intelligence (INT) and Wisdom (WIS), the GLOG has Talent
+(TAL) and Willpower (WIL), respectively.  Treat them as the same apart from the
+name.
+
+The GLOG does not have a Constitution (CON) attribute. The duties of the CON
+attribute in other games are performed by the STR attribute. When converting a
+character from the GLOG to another system, their CON score is the same as their
+STR score. When converting from another system to the GLOG, the character's STR
+score is, at the GM's discretion, either:
+
+- The average of STR and CON, i.e. (STR+CON)/2
+- The higher of STR or CON

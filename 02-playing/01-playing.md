@@ -228,7 +228,7 @@ enough of those risks temporary and permanent insanity.
 Doubt reflects your character's resolve to continue, and is another optional
 subsystem.  Some creatures, like angels, attack your resolve instead of your hit
 points.  Basically, you have a hidden HP pool called Resolve, calculated the
-same way HP is, except substituting CHA for CON. When it runs out, you either
+same way HP is, except substituting CHA for STR. When it runs out, you either
 become an unfriendly NPC, or you replace one of your Convictions.
 
 ## Spellcasting

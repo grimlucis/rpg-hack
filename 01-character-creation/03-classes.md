@@ -12,16 +12,16 @@ explained in detail in chapter 2. Advancement is as follows:
 
 Level | Hit points | Templates | Attack |  XP
 ------|------------|-----------|--------|------
-   1  |   CON - 4  |     1     |   11   |     0
-   2  |   CON - 2  |     2     |   12   |  2000
-   3  |     CON    |     3     |   12   |  4000
-   4  |   CON + 2  |     4     |   13   |  7000
-   5  |   CON + 4  |     -     |   13   | 10000
-   6  |   CON + 6  |     -     |   14   | 14000
-   7  |   CON + 7  |     -     |   14   | 18000
-   8  |   CON + 8  |     -     |   15   | 22000
-   9  |   CON + 9  |     -     |   15   | 26000
-  10  |  CON + 10  |     -     |   15   | 30000
+   1  |   STR - 4  |     1     |   11   |     0
+   2  |   STR - 2  |     2     |   12   |  2000
+   3  |     STR    |     3     |   12   |  4000
+   4  |   STR + 2  |     4     |   13   |  7000
+   5  |   STR + 4  |     -     |   13   | 10000
+   6  |   STR + 6  |     -     |   14   | 14000
+   7  |   STR + 7  |     -     |   14   | 18000
+   8  |   STR + 8  |     -     |   15   | 22000
+   9  |   STR + 9  |     -     |   15   | 26000
+  10  |  STR + 10  |     -     |   15   | 30000
 
 You cannot advance beyond level 10. At that point you will be a legendary
 adventurer known throughout the lands and can safely retire - or pursue
@@ -106,8 +106,8 @@ unusual herb. One use costs 1gp and can be purchased in any trading city. 3
 "doses" fit in a single inventory slot. You cannot do this while raging, but you
 can immediately enter a rage after eating the ration. If you have any Lethal
 Damage, you instead heal to 0 HP. If an ally waves the ration under you nose,
-you can Save vs Constitution to wake up. You may play a theme tune (or a
-leitmotif, if you're classy).
+you can make a STR check to wake up. You may play a theme tune (or a leitmotif,
+if you're classy).
 
 **Feat of Strength:** Once per day as a free action, you have 22 Strength for 1
 round. Can also be used in combat (your Strength Bonus is 4).
@@ -551,7 +551,7 @@ from the undernourished spell.
 3. Turn into an illusion permanently.
 
 As an illusion, you have no smell or taste. You cannot be felt. Solid impacts
-cause you to pop. Lose 1d6 Con that cannot be recovered while you are an
+cause you to pop. Lose 1d6 STR that cannot be recovered while you are an
 illusion, and reform the next morning nearby. Illusions are real to you.
 
 This doom can be avoided by journeying into the mirror-realm and eating one of

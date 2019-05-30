@@ -13,7 +13,7 @@ Fey        | CHA  |Passive magic detection               |Allergic to iron
 Kobold     | DEX  |Squeeze into tight spaces             |Your tail is a weak spot
 Infernal   | WIL  |Ignite eyes, arrowhead tail 1d6       |Holy magic hurts as if devil/demon
 Hyena-folk | STR  |Eat any carrion with no repercussions |Awful stench; noisy laugh
-Dog-folk   | CON  |Can track by scent alone              |Save vs commands from legit authority figures
+Dog-folk   | STR  |Can track by scent alone              |Save vs commands from legit authority figures
 Cat-folk   | DEX  |Nightvision                           |Jump away from water
 Owl-folk   | WIL  |Can rotate head 180°                  |Cough up disgusting pellets after meals
 Fox-folk   | CHA  |+1 to Stealth at night                |Save or rummage through garbage

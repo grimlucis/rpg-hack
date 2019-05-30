@@ -1,13 +1,12 @@
 ## Ability scores
 
-Roll 3d6 in order for your 6 ability scores:
+Roll 3d6 in order for your 5 ability scores:
 
 1. Strength (STR) - physical power, might, physique.
 2. Dexterity (DEX) - agility, hand-eye coordination, reflexes.
-3. Constitution (CON) - stamina, physical hardiness, meat.
-4. Talent (TAL) - knowledge, quick wits, perception.
-5. Willpower (WIL) - Determination, discipline, soundness-of-mind.
-6. Charisma (CHA) - Beauty, personality, luck
+3. Talent (TAL) - knowledge, quick wits, perception.
+4. Willpower (WIL) - Determination, discipline, soundness-of-mind.
+5. Charisma (CHA) - Beauty, personality, luck
 
 Your ability bonus for each score is \[(Score/3) - 3\], rounding down:
 

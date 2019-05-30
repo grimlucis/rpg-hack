@@ -16,7 +16,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 2    | Corrupted Organs. Your guts writhe. Whenever you gain a Fatal Wound, everyone in 30' must Save vs Fear.
 3    | Bat Wings. Huge, flappy. Fly speed equal to your Movement speed.
 4    | Burst of Speed.  Once per day, can double movement for 10 minutes.
-5    | Barrel Chest. +1d6 Constitution, +1d6 HP.
+5    | Barrel Chest. +1d6 Strength, +1d6 HP.
 6    | Lamarckian Evolution. One hand turns into a random tool. Roll on the Professions table.
 7    | Hooved. 2 of your legs end in hooves. No effect.
 8    | Unstable. On death, parasitic limbs try to grapple nearby targets, fuse to them.
@@ -102,7 +102,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 88   | Detachable Tail. Newt-like. Falls off if you lose 6 HP in one hit.
 89   | Suckers. Your fingers end in suction cups. You can pick up anything.
 90   | Extra Lobes. +1d6 Intelligence.
-91   | Thick Skull. -1d6 Intelligence, +1d6 Constitution. Cannot be Stunned by physical attacks.
+91   | Thick Skull. -1d6 Intelligence, +1d6 Strength. Cannot be Stunned by physical attacks.
 92   | Oily. All bodily fluids can be used as (smelly) lamp oil. 1 flask per day normally.
 93   | Tentacle Fingers. All wiggly.
 94   | Strange Voice. Something has gone awry with your vocal cords. Your voice sounds like a faxed duck.
@@ -144,7 +144,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 130  | Lamarckian Evolution. One hand turns into a terrible version of the last tool you used.
 131  | Asymmetry. Everything you have 2 of you now have 1 of. Roll to see if it's on the left or right side.
 132  | Iron Nails. Fingernails, toenails, and teeth of iron. You can chew through leather.
-133  | 1000 Sores. They cover your body. -1d6 Charisma and Constitution.
+133  | 1000 Sores. They cover your body. -1d6 Charisma and Strength.
 134  | Comb. Like a rooster.
 135  | Trouble With Nouns. Everything is a "thing" if you're in a hurry. Can find word in 2d6 rounds.
 136  | Serrated Teeth. All your teeth become fearsomely sharp. You deal 1d6 damage on a bite.
@@ -169,7 +169,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 155  | Feathered Skin. You are covered in rainbow feathers.
 156  | Evil Eye. One of your eyes becomes green and wobbly. If you die, it becomes a slime.
 157  | Duplication. Split in half. Reduce all your Stats by 1d6 and your HP by half. Your "twin" rolls new stats and HP.
-158  | Wracked. Your body twists and deforms. -1d6 Constitution.
+158  | Wracked. Your body twists and deforms. -1d6 Strength.
 159  | Spindle Arm. A new one, red and feeble. Stick it into a fresh corpse to make it walk and talk.
 160  | Hunchback. You store a huge heap of fat on your back. Take twice as long to starve.
 161  | Corpulent. Fat fills up 4 of your Inventory Slots.
@@ -210,7 +210,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 196  | Fire Breath. 30' cone, 1d6 damage, once per day.
 197  | Second Brain. In your guts. +1d6 Intelligence. If decapitated, you can live (blind, deaf, and dumb, but alive).
 198  | Wonderful Odour. +1d6 Charisma. Smells of spices.
-199  | Addiction. You desire turnips. You take 1d6 Int. and Con. damage each day you do not have a turnip.
+199  | Addiction. You desire turnips. You take 1d6 TAL and STR damage each day you do not have a turnip.
 200  | Unstable. If you take 4 fire damage in 1 round, Save or explode. 3d6 damage, 20' radius.
 201  | Gulper. You can eat something up to 2x your current size and still walk, very slowly.
 202  | Crown of Arms. 2d10 tiny arms grow in a ring around your head. No effect.
@@ -275,11 +275,11 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 261  | Faulty Memory. Must Save vs Intelligence to recall details. Will lie to conceal ignorance.
 262  | Swap. Pick a mutation you currently have and replace it with one rolled on this table.
 263  | Frog Eyes. They grow large and bulging.
-264  | Emaciated. Reduce Strength, Constitution, and HP by 1d4. Need to eat 1 extra Ration per day.
+264  | Emaciated. Reduce Strength, Strength, and HP by 1d4. Need to eat 1 extra Ration per day.
 265  | Hydra. If head cut off, Save. If passed, 2 new heads emerge.
 266  | Hypnotic Eye. Lock eyes with a creature of 2 HD or less. It must Save or be stunned.
 267  | Lightning Touch. Your skin tingles with electricity. No effect, but you are annoying to touch.
-268  | Addiction. You desire alcohol. You take 1d6 Int. and Con. damage each day you do not have a drink.
+268  | Addiction. You desire alcohol. You take 1d6 TAL and STR damage each day you do not have a drink.
 269  | Grey Hairs. Age 2d10 years.
 270  | Wyrdsight. One eye can see souls.
 271  | Spike Chin. Like a doorstop.
@@ -324,7 +324,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 310  | Pinecone Skull. Your head fold and ripples into a layered, complex shape.
 311  | Insect Love. All insects instinctively want to be your friend. People are immune.
 312  | Patterned Skin. Spotted.
-313  | Huge. You grow, unevenly. Gain 1d6 Strength, Constitution, and HP. Lose 1d6 Intelligence.
+313  | Huge. You grow, unevenly. Gain 1d6 Strength, Strength, and HP. Lose 1d6 Intelligence.
 314  | Owl Eyes. Large but very deep set.
 315  | Mutable. If you have sex with someone, randomly allocate mutations between participants.
 316  | Unstable. On death, body flails and runs around mindlessly for 10 minutes.
@@ -388,7 +388,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 374  | Crystal Skin. Your skin is brittle and rocky. You cannot swim.
 375  | Deafness. Your ears pop (like blisters).
 376  | Goat Eyes. Square pupils.
-377  | Addiction. You desire blood. You take 1d6 Int. and Con. damage each day you do not have a drink.
+377  | Addiction. You desire blood. You take 1d6 TAL and STR damage each day you do not have a drink.
 378  | Slab Hands. Fingers fuse together. Can still hold weapons. Save to perform delicate tasks.
 379  | Boils. Horrible red lumps all over your body. Save vs Wisdom to sleep.
 380  | Mammal Love. All mammals instinctively want to be your friend. People are immune.
@@ -421,7 +421,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 407  | Locust Blood. You bleed flying locusts. No effect, but they fly around if you are hit.
 408  | Musk Gland. For marking territory. Smells like old socks.
 409  | Migratory Mouth. It roves across your body like a slug.
-410  | Gyroscopic Guts. -1d6 Constitution, +1d6 Dexterity. Cannot be knocked prone.
+410  | Gyroscopic Guts. -1d6 Strength, +1d6 Dexterity. Cannot be knocked prone.
 411  | Butterfly Wings. Cannot fly, but they do look pretty.
 412  | Sensitive Skin. Unpleasant, itchy rash from touching iron.
 413  | Organ Vomit. You can throw up your stomach to distract predators by taking 1d6 damage.
@@ -559,7 +559,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 40   | Mystic Eyes. Opals reflecting the moon. No pupils.
 41   | Delusion. Pick a type of inanimate object (stairs, windows, hats, etc). You utterly loath them.
 42   | Strange Voice. Wandering accent. The stranger the better.
-43   | Eggshell Skin. Splinters and bleeds. -2 to Constitution, -4 to Save vs Poison.
+43   | Eggshell Skin. Splinters and bleeds. -2 to Strength, -4 to Save vs Poison.
 44   | Warrior Teeth. They fall out. 32 of them. You can plant them to create a skeleton that lasts 1 hour.
 45   | The Darkest Magic. Needle teeth. Cast hateful or damage-dealing spells at +1 MD/ Caster Level.
 46   | Dead Asleep. While asleep or unconscious you appear to be a rotting corpse.
@@ -694,7 +694,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 175  | Unstable Shimmer. Constant microteleportation makes it difficult to tell where you are. +4 to Defense.
 176  | Eyeless Sight. Eyes fall out and fly away. You are blind, but are convinced you can still see just a little.
 177  | The Darkest Magic. Long stringy hair. Any time you kill a creature with a spell, heal +1 HP.
-178  | Water Walking. You can walk on water as long as you hold your breath. (Con bonus minutes).
+178  | Water Walking. You can walk on water as long as you hold your breath. (STR bonus minutes).
 179  | Powerful Gaze. You can lock eyes with a small creature. It must Save or be hypnotized.
 180  | Crown of Spikes. Long metal spikes poke through your scalp. They rust.
 181  | Yellow Sparks. Whenever you gesture, faint yellow sparks float in the air.
@@ -758,7 +758,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 239  | Cat Fingers. Fingers are the front halves of kittens. Hard to control. -2 Dex and Stealth.
 240  | Snorkel. If underwater, can extend a 2' breathing tube from your left ear.
 241  | Catastrophic Mutation. Roll on this table 2d4 more times.
-242  | Atrophy. Your body withers and is pulled around by your normal-sized floating head. -6 Str, Dex, Con.
+242  | Atrophy. Your body withers and is pulled around by your normal-sized floating head. -6 Str, Dex.
 243  | Magic Trick. Pull a 10' long string of ribbons from your ear once per day.
 244  | Orange Sparks. Whenever you move your fingers, faint orange sparks fall from your fingertips.
 245  | Crystal Body. Quartz limbs, faceted eyes. No other effect.
@@ -796,7 +796,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 277  | Sadim Curse. Any gold you touch turns to clay.
 278  | Entangled Legs. Projected slightly backwards in time. -2 Movement and Dexterity.
 279  | Frenzied Flesh. You gain +1 Attack per round if you attack without hesitation, fear, or tactics.
-280  | Lava Walking. You can walk on molten rock as long as you hold your breath. (Con bonus minutes).
+280  | Lava Walking. You can walk on molten rock as long as you hold your breath. (STR bonus minutes).
 281  | Adjusted Humour. You find the number 5 hilarious. Nothing else makes you laugh unless it's got 5 in it.
 282  | Delusion. You believe spiders are your spies and bring you secrets. They are not and do not.
 283  | Cleaned. Permanently smooth skin, clean and combed hair, and shining teeth. +2 Charisma.
@@ -902,7 +902,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 383  | Cross Eyed. Point away from your nose.
 384  | Evil Eye. Blue and watery. Once per day, a target you stare at must Save or age 1d10 years.
 385  | Sorcerer Hair. Long and wild. Reacts to your emotions. Dramatic and flashy.
-386  | Shingles. You are covered in thick grey sheets of sandpaper. +2 HP and Constitution, -2 Dex.
+386  | Shingles. You are covered in thick grey sheets of sandpaper. +2 HP and Strength, -2 Dex.
 387  | Strange Voice. Slowly rises and falls like you're doing scales.
 388  | Insubstantial Flesh. In sunlight, appear as a rotting corpse. No effect on stats.
 389  | Eldritch Marks. Jet black eyeliner.
@@ -910,7 +910,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 391  | Delusion. You believe any person you injure is dead. Any further movements are rigor mortis.
 392  | Wizard Ears. 2' tall, pointed, tufts of bristles on the end and in the ear-holes.
 393  | Curse Magnet. Any curse inflicted within 30' of you also affects you.
-394  | Falsetto. You can sing indefinitely without breathing in. Can Save vs Con. to attempt to shatter glass.
+394  | Falsetto. You can sing indefinitely without breathing in. Can make a STR check to attempt to shatter glass.
 395  | Polymorph. Reroll your race.
 396  | Labeled. Your veins and freckles rearrange to label all your body parts and organs.
 397  | Unusual Nose. Grows 1" whenever you lie, shrinks to normal at midnight. Bendy like a finger.
@@ -947,7 +947,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 428  | Stupendous Eyebrows. Butterfly iridescence.
 429  | Detachable Head. Pops off if you take 3 damage to the head. Unlimited range.
 430  | Dark Halo. A circle or triangle of black fire hovers over you. Looks ominous and possibly daemonic.
-431  | Flattened. 1" thick, all other dimensions normal. -2 Constitution and HP.
+431  | Flattened. 1" thick, all other dimensions normal. -2 Strength and HP.
 432  | Convenienced. Your bodily waste is shunted 2 miles away, appearing with a faint magical glow.
 433  | Snail Shell. 1'x1'x1', on your back. You can retreat inside of it leaving only 1 hand exposed.
 434  | Eldritch Marks. Glowing blue star on your forehead.
