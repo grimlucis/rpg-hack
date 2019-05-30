@@ -337,7 +337,7 @@ and in doing so, court damnation.
 
 ## Advancing in level
 
-Level | XP (cp)
+Level | XP (sp)
 ------|--------
    1  |       0
    2  |    2000
@@ -350,14 +350,16 @@ Level | XP (cp)
    9  |   26000
   10  |   30000
 
-Gold Gildreks (gp) | Silver Smoldreks (sp) | Copper Cupreks (cp)
--------------------|-----------------------|--------------------
-1                  | 10                    | 100
-0.1                | 1                     | 10
-0.01               | 0.1                   | 1
+Coin             | 1 CP | 1 SP | 1 EP | 1 GP | 1 PP
+-----------------|------|------|------|------|------
+Copper Cupreks   |  1   |  10  |  50  | 100  | 1000
+Silver Smoldreks | 1/10 |   1  |   5  |  10  |  100
+Electrum Eltreks | 1/50 | 1/5  |   1  |   2  |   20
+Gold Gildreks    | 1/100| 1/10 | 1/2  |   1  |   10
+Platinum Platreks|1/1000| 1/100| 1/20 | 1/10 |    1
 
 The best way to advance and attain higher levels is to bring treasure to
-safety - your lair, safehouse, or stronghold. Each 1cp of treasure you loot and
+safety - your lair, safehouse, or stronghold. Each 1sp of treasure you loot and
 take to safety grants you a single experience point. However, this only works if
 you obtain the treasure through adventurous means! So taxes from your lordly
 holdings, ransoms from characters you didn't vanquish in battle, earnings from
@@ -366,7 +368,9 @@ wages from "honest work".
 
 You also get 1 XP for each 1sp you spend on non-adventuring items. For example,
 buying a round of drinks for the locals (a good way to make friends, for sure)
-or upgrading your safehouse.
+or upgrading your safehouse. This means that spending your treasure straight
+away, rather than hoarding it, could potentially double the amount of experience
+you get from an adventure!
 
 An obvious omission is combat experience from killing monsters. This is
 intentional. In the GLOG, you're expected to treat combat as risky and hostile

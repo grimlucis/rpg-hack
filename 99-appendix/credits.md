@@ -3,8 +3,8 @@
 Compiled by [the Princess Japanoise](https://github.com/japanoise) and licensed
 under a CC-BY-SA license.
 
-Some content (mostly monster stuff) is from OGL content; see the Open Gaming
-License in the appendix.
+Some content (monster stuff, currency conversion table, etc) is from OGL
+content; see the Open Gaming License in the appendix.
 
 GLOG original rules and concept by Arnold Kemp at [Goblin
 Punch.](https://goblinpunch.blogspot.com/)
