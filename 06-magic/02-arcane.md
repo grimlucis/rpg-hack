@@ -97,10 +97,10 @@ invisible things as a slight warping or lensing of light. You know “there's
 something over there” and what size it roughly is, but nothing else. (b) You can
 tell if someone else is a spellcaster by looking them in the eyes.
 
-The price for this gift is your mind. You suffer a permanent loss of 1d6 Wisdom
-(as you reject the true nature of Creation and go slightly mad) or 1d6 Charisma
-(as you accept the true nature of Creation and alienate yourself from your
-peers).
+The price for this gift is your mind. You suffer a permanent loss of 1d6
+Willpower (as you reject the true nature of Creation and go slightly mad) or 1d6
+Charisma (as you accept the true nature of Creation and alienate yourself from
+your peers).
 
 ### Prismatic Ray
 
@@ -254,7 +254,7 @@ R: Touch T: corpse D: 0
 A creature of [dice] HD or less that died in the last 3 turns immediately
 returns as an undead version of itself with full HP. The HD requirement is
 ignored if the target is well known to you (a fellow PC, for example). This
-revenant can never gain HP, and loses 1 HP, and 1 point of INT and WIL to a
+revenant can never gain HP, and loses 1 HP, and 1 point of TAL and WIL to a
 minimum of 5, every hour until it reaches 0 HP and disintegrates. This HP loss
 can be healed by the Rot spell or other effects that heal undead creatures. The
 revenant is unaware that it ever died, even ignoring obvious signs of death (no

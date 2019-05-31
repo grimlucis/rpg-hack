@@ -56,14 +56,14 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 42   | Feeble Jaw. Enormous overbite.
 43   | Third Eye. On your forehead.
 44   | Dog Face. Face of a houndling.
-45   | Perfect Memory. Can Save vs Intelligence to recall incredibly trivial details.
+45   | Perfect Memory. Can make a TAL check to recall incredibly trivial details.
 46   | Bad Posture. Head swapped with leg. May need to hop. -4 Movement.
 47   | Skin Flaps. Like flying squirrel wings. Cannot use them to fly or even fall slowly.
 48   | Long Nose. Protruding, sharp.
 49   | Strange Walk. You joints fire in an odd order. Reduce your Movement by 1.
 50   | Crown of Tentacles. 2d10 tiny tentacles grow in a ring around your head. No effect.
 51   | Spider Neck. On death, head is revealed to be a giant spider living on top of your body.
-52   | Mental Backsliding. -1d6 to Intelligence. Cannot read or write.
+52   | Mental Backsliding. -1d6 to Talent. Cannot read or write.
 53   | Hair Migration. All of it migrates to one side of your head in a huge tuft.
 54   | Cyclops. All your eyes migrate to the centre of your forehead and fuse into one.
 55   | The Fits. Your mind isn't quite right. Save vs bright light or flail about for 1d6 rounds.
@@ -101,8 +101,8 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 87   | Pelican Mouth. +2 Inventory Slots.
 88   | Detachable Tail. Newt-like. Falls off if you lose 6 HP in one hit.
 89   | Suckers. Your fingers end in suction cups. You can pick up anything.
-90   | Extra Lobes. +1d6 Intelligence.
-91   | Thick Skull. -1d6 Intelligence, +1d6 Strength. Cannot be Stunned by physical attacks.
+90   | Extra Lobes. +1d6 Talent.
+91   | Thick Skull. -1d6 Talent, +1d6 Strength. Cannot be Stunned by physical attacks.
 92   | Oily. All bodily fluids can be used as (smelly) lamp oil. 1 flask per day normally.
 93   | Tentacle Fingers. All wiggly.
 94   | Strange Voice. Something has gone awry with your vocal cords. Your voice sounds like a faxed duck.
@@ -208,7 +208,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 194  | Carnivore. Can only eat meat for rations.
 195  | Warts. All over the place.
 196  | Fire Breath. 30' cone, 1d6 damage, once per day.
-197  | Second Brain. In your guts. +1d6 Intelligence. If decapitated, you can live (blind, deaf, and dumb, but alive).
+197  | Second Brain. In your guts. +1d6 Talent. If decapitated, you can live (blind, deaf, and dumb, but alive).
 198  | Wonderful Odour. +1d6 Charisma. Smells of spices.
 199  | Addiction. You desire turnips. You take 1d6 TAL and STR damage each day you do not have a turnip.
 200  | Unstable. If you take 4 fire damage in 1 round, Save or explode. 3d6 damage, 20' radius.
@@ -272,10 +272,10 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 258  | Fish Love. All fish instinctively want to be your friend. People are immune.
 259  | Hunchback. Your spine bends upwards.
 260  | Misshapen. May no longer run or ride a horse. Reduce Movement by 1/2.
-261  | Faulty Memory. Must Save vs Intelligence to recall details. Will lie to conceal ignorance.
+261  | Faulty Memory. Must make a TAL check to recall details. Will lie to conceal ignorance.
 262  | Swap. Pick a mutation you currently have and replace it with one rolled on this table.
 263  | Frog Eyes. They grow large and bulging.
-264  | Emaciated. Reduce Strength, Strength, and HP by 1d4. Need to eat 1 extra Ration per day.
+264  | Emaciated. Reduce Strength and HP by 1d4. Need to eat 1 extra Ration per day.
 265  | Hydra. If head cut off, Save. If passed, 2 new heads emerge.
 266  | Hypnotic Eye. Lock eyes with a creature of 2 HD or less. It must Save or be stunned.
 267  | Lightning Touch. Your skin tingles with electricity. No effect, but you are annoying to touch.
@@ -291,7 +291,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 277  | Skin Slough. Your skin falls off, exposing muscles and sinew. Charisma becomes 2. -4 to Save vs Disease.
 278  | Extra Arm. Sticks off your side. It can hold things including an extra weapon or a shield.
 279  | Brittle spines. Useless, floppy spines on all sides. Cannot wear armour. Constantly shedding spines.
-280  | Whiskers. They sense air currents and vibrations. +1d6 Wisdom.
+280  | Whiskers. They sense air currents and vibrations. +1d6 Willpower.
 281  | Foul Stench. Sharp metallic vomit. -4 Stealth.
 282  | Bird Wings. Huge, flappy. Fly speed equal to your Movement speed.
 283  | Heart Cannon. Can fire heart at target, as a thrown dagger. Then Save vs Death.
@@ -316,22 +316,22 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 302  | Retract. You can return to your normal form for 1d6 minutes per day.
 303  | Flipper Feet. -2 Movement on land, +2 Movement in water.
 304  | Enormous Head. Your head swells to twice its usual size.
-305  | Mind Split. You start hearing voices. The voices are you, or part of you. Second thoughts are good. +1d6 Int.
+305  | Mind Split. You start hearing voices. The voices are you, or part of you. Second thoughts are good. +1d6 TAL.
 306  | Second Mouth. Inside the first one. Repeats what you say with a very slight delay.
 307  | Glass Flesh. Blue-white and brittle. Any fall damage you take is doubled.
-308  | Mental Regression. -4 to Intelligence. Cannot read, write, or cast spells.
-309  | Mindless. Intelligence becomes 1. You obey any stern, simple order. Maybe time for a new character?
+308  | Mental Regression. -4 to Talent. Cannot read, write, or cast spells.
+309  | Mindless. Talent becomes 1. You obey any stern, simple order. Maybe time for a new character?
 310  | Pinecone Skull. Your head fold and ripples into a layered, complex shape.
 311  | Insect Love. All insects instinctively want to be your friend. People are immune.
 312  | Patterned Skin. Spotted.
-313  | Huge. You grow, unevenly. Gain 1d6 Strength, Strength, and HP. Lose 1d6 Intelligence.
+313  | Huge. You grow, unevenly. Gain 1d6 Strength, Strength, and HP. Lose 1d6 Talent.
 314  | Owl Eyes. Large but very deep set.
 315  | Mutable. If you have sex with someone, randomly allocate mutations between participants.
 316  | Unstable. On death, body flails and runs around mindlessly for 10 minutes.
 317  | People-Eater. Can only eat people for rations.
 318  | Mirrored Hands. They swap sides.
 319  | Tentacle Arm. One arm only. Works as normal, but slimy and flexible.
-320  | Synthesia. Your senses are confused and miswired. You taste colours, etc. -1d6 Wisdom.
+320  | Synthesia. Your senses are confused and miswired. You taste colours, etc. -1d6 Willpower.
 321  | Manic. Choose a repetitive activity (knitting, screaming, etc.) Replaces sleep. Still takes 4hrs.
 322  | Head Rotation. Flips upside-down on your head.
 323  | Centipede. Your legs fuse and then grow 10x1d10 little legs. You move and climb normally.
@@ -377,11 +377,11 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 363  | Spare Organs. A hairy hump with a heart, lung, liver, and stomach grows on your back.
 364  | Rash. Horrible red lumps with white heads coat part of your body. They migrate with the moon's phases.
 365  | Powerful Legs. Thick tendons and springy joints. +2 Movement.
-366  | Ethereal Feelers. They sense danger. +1d6 Wisdom.
+366  | Ethereal Feelers. They sense danger. +1d6 Willpower.
 367  | Mammal Hatred. All mammals instinctively fear or hate you. People are immune.
 368  | Bat Ears. Can sense 30' in the dark by clicking.
 369  | Fins. One on your back, two on your sides. +2 Movement in water.
-370  | Split Direction. If you are angry, gain +2 Strength. If you are calm, gain +2 Intelligence.
+370  | Split Direction. If you are angry, gain +2 Strength. If you are calm, gain +2 Talent.
 371  | Craven. Gain a -4 to Save vs Fear.
 372  | Iron Hair. Spikes and wires. Cannot wear hats; need to shave with clippers. Painful.
 373  | Dead Black Eyes. Like a doll's eyes. +2 Save vs Fear.
@@ -390,10 +390,10 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 376  | Goat Eyes. Square pupils.
 377  | Addiction. You desire blood. You take 1d6 TAL and STR damage each day you do not have a drink.
 378  | Slab Hands. Fingers fuse together. Can still hold weapons. Save to perform delicate tasks.
-379  | Boils. Horrible red lumps all over your body. Save vs Wisdom to sleep.
+379  | Boils. Horrible red lumps all over your body. Save vs Willpower to sleep.
 380  | Mammal Love. All mammals instinctively want to be your friend. People are immune.
 381  | Spherical. All protrusions retract. Can extend legs and arms, but can also roll.
-382  | Quick Nerves. +1d6 Dexterity and Wisdom.
+382  | Quick Nerves. +1d6 Dexterity and Willpower.
 383  | Dire Straits. Roll again twice. GM decides which mutation you get.
 384  | Weak Grip. Cannot hold anything heavier than a pen in your hands.
 385  | Snake Arm. A new one. Like an eyeless, noseless boa constrictor. Disobedient.
@@ -413,7 +413,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 399  | Cilia Lips. Wriggly. Seals food inside. Like kissing a millipede.
 400  | Second Feet. 2 of  your legs have second, backwards-facing feet. No effect.
 401  | Second Face. On your lower back. It can see, smell, and speak but not hear.
-402  | Massive Brain. +1d6 Intelligence. Brain pokes out of your head. Cannot wear a helmet.
+402  | Massive Brain. +1d6 Talent. Brain pokes out of your head. Cannot wear a helmet.
 403  | Vertical Eyelids. They blink sideways.
 404  | Slug Slime. Can slowly climb any surface a slug could climb. Always sticky.
 405  | Fangs. Your canine teeth sharpen. You deal 1d4 damage on a bite.
@@ -482,7 +482,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 468  | Unstable. On death, burst messily. 2d6 acid damage, 10' radius.
 469  | Rippling Muscles. +1d6 Strength.
 470  | Porcupine Spines. Quills on all sides. Cannot wear armour. 1d6 damage by running into people.
-471  | Moronic. Large parts of your brain grow wings and fly away. -2d6 Intelligence.
+471  | Moronic. Large parts of your brain grow wings and fly away. -2d6 Talent.
 472  | Spike Tongue. Good for opening bottles but not much else.
 473  | Secret Pocket. Can hide 1 thing the size of an apple.
 474  | Spike Warts. All over.
@@ -498,7 +498,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 484  | Wind Blood. At 0 HP or below, you make a horrifying whistling scream. May require a Morale check.
 485  | Molting. Once per week you shed your skin. Can be used to make coats or blankets.
 486  | Spiracles. You can breathe through your thighs and ribs.
-487  | Atrophy. Your head shrinks to the size of an apple. -1d6 Int, Wis, and Cha.
+487  | Atrophy. Your head shrinks to the size of an apple. -1d6 Tal, Wil, and Cha.
 488  | Stiff Joints. Cannot bend knees, elbows as easily. -2 Movement, -1d6 Dexterity
 489  | Hibernate. You can fall asleep and rest for 1 year without food or water.
 490  | Mimic. You think you can mimic voices but they always sound eerie and tormented.
@@ -594,18 +594,18 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 75   | Enormous Underbite. Lower jaw sticks out 10".
 76   | Thropy. You become a deranged one-eyed swan by the light of the full moon.
 77   | Light Sleeper. While asleep or unconscious you weigh next to nothing. You float like a balloon
-78   | Wizard Speed. You gain a +4 to Wisdom for Initiative. If you act first, you must Save or show off.
+78   | Wizard Speed. You gain a +4 to Willpower for Initiative. If you act first, you must Save or show off.
 79   | Sorcerer Head. Clear glass windows to show off your brain. -2 HP.
 80   | Moth Flesh. Your skin is wrinkled, grey, and dusty. -2 Charisma.
 81   | Cat Nap.  While asleep or unconscious you transform into a scruffy-looking cat.
 82   | Scorecard. Your age, diseases, and marital status are displayed on your forehead in black letters.
 83   | Metal Mask. Like your face, but frozen in a deeply concerned expression.
-84   | Megamind. Gain 1d6 Int and Wis. Become insufferably smug.
+84   | Megamind. Gain 1d6 Tal and Wil. Become insufferably smug.
 85   | Eldritch Marks. Glowing red circle on your forehead.
 86   | Meditation. Cross legs and concentrate fully to hover 1' off the ground.
 87   | Cloud Skin. Become a skeleton coated in thick mist. Can drink water as rations. HP becomes 6.
 88   | Wizard Rage. When angry, you temporarily grow a 5' long white beard.
-89   | Ear Fronds. Like two ferns or peacock tails made of glass. +4 Wisdom.
+89   | Ear Fronds. Like two ferns or peacock tails made of glass. +4 Willpower.
 90   | Coldfinger. One finger is freezing cold. Can freeze a 6" radius of water in 1hr.
 91   | Fearful Blood. If you drop below half HP, Save vs Fear.
 92   | Wizard Rage. If you are wronged, Save or rant loudly for at least 10 minutes.
@@ -658,7 +658,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 139  | Flame Hair. Your facial hair becomes fire. It doesn't burn you. Casts light as a candle.
 140  | Wheels. Your legs are replaced with iron cart wheels. +4 Movement.
 141  | Immortal Arm. One of your arms is completely immune to all damage. +2 Defense.
-142  | Soul Eviction. Body is taken over by a spirit, spell, or ghost. Reroll Wis, Int, Cha. Become weirder.
+142  | Soul Eviction. Body is taken over by a spirit, spell, or ghost. Reroll Wil, Tal, Cha. Become weirder.
 143  | Powerful Name. Whenever you say it, an unseen chorus repeats it.
 144  | Second Life. The first time you die, you will lurch into undead life for 6hrs. 10 HP, cannot heal.
 145  | Miser. Must Save to spend money. Can try again in 6hrs.
@@ -785,11 +785,11 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 266  | Heavy Sleeper. While asleep or unconscious you weigh 500lbs.
 267  | Soluble. Your skin is grey and chalky. You take 2x damage from acid.
 268  | Twirling. You constantly flip head over heels about once every two minutes. -2 Movement.
-269  | Moron. Head caves in. Intelligence becomes 2.
+269  | Moron. Head caves in. Talent becomes 2.
 270  | Corpse Bomb. Any creatures you kill have a 1-in-6 chance of exploding. 20' radius, HDxd6 damage.
 271  | Wizard Rage. When woken, you scream as loud as you can for 1 minute.
 272  | Ladderguts. Once per day, you can vomit up a 20' ladder made from bone. It crumbles in 6 hrs.
-273  | Narrator. You hear a voice in your head inaccurately narrating all your actions. -2 Wisdom.
+273  | Narrator. You hear a voice in your head inaccurately narrating all your actions. -2 Willpower.
 274  | Root Legs. They want to burrow. No longer need to drink. -4 Movement.
 275  | Ink Cloud. If you fail a Save vs Fear, you spray ink 10' in all directions.
 276  | Delusion. Any plan you come up with is the best plan; all other plans are inferior.
@@ -874,7 +874,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 355  | Uncertain Flesh. Each morning, Save or mutate.
 356  | Hero of the Beach. Once a day, shout a catchphrase or your name to gain +4 Strength for 1d6 rounds.
 357  | Cyclops. Your head becomes one giant eyeball. You eat by putting food in the pupil.
-358  | Wizard Wisdom. Your brain sizzles like a hot stove. +4 Intelligence. Save to not offer an opinion.
+358  | Wizard Willpower. Your brain sizzles like a hot stove. +4 Talent. Save to not offer an opinion.
 359  | Frozen Skin. Your skin is like ice. You take 1/2 cold but 2x fire damage.
 360  | Skull Head. Head becomes a bull's skull. Still functions normally.
 361  | Cracked. You are peeling apart. Spend 1hr each morning tying yourself together or lose half HP.
@@ -929,7 +929,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 410  | Coral Body. Brittle, tiny feelers, crunchy movements. -4 Stealth, +2 HP.
 411  | Wizard Rage. When angry, the top of your head rattles like a boiling kettle.
 412  | Orbiting Eyes. You can see in all directions, but you must Save vs Dizziness when running.
-413  | Bewildered. Eyes roll, ears flap. Wisdom becomes 2.
+413  | Bewildered. Eyes roll, ears flap. Willpower becomes 2.
 414  | Cooling Tower Head. Like an inverted bell. Intense thoughts produce a column of steam.
 415  | Spring Legs. Metal coils ending in feet. 1/2 fall damage, can jump twice as high.
 416  | Wizard  Hat. Remove your hat to reveal a new, identical hat. Removed hats vanish in 5 minutes.
@@ -953,7 +953,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 434  | Eldritch Marks. Glowing blue star on your forehead.
 435  | Cross Eyed. Point towards your nose.
 436  | Fizzbody. You hover 6" off the ground as long as you are conscious.
-437  | Turbulent Hair. Flies around as if in a violent storm. Gets in your eyes. -2 Wisdom.
+437  | Turbulent Hair. Flies around as if in a violent storm. Gets in your eyes. -2 Willpower.
 438  | Evil Eye. Black and glassy. Weeps grease. Once per day, target must Save or drop all held objects.
 439  | Assistants. Each morning, local wildlife (sparrows, centipedes, etc.) bring you 1d10cp and a ration.
 440  | Milk Duct. Nutritious nozzle. Produces 1 pint of milk per day.
@@ -987,7 +987,7 @@ E.g. 1d5 = 5, 1d10 = 0, 1d% = 80; the result is 80.
 468  | Shadow Magic. Your shadow is perfectly normal, no matter how mutated you are.
 469  | Blasphemous Blubber. Capillaries form unholy runes. Immune to bludgeoning damage.
 470  | Spell Rebound. Any spell that strikes you rebounds to also strike an adjacent target.
-471  | Narrator. You hear a voice in your head narrating all your actions. +2 Wisdom.
+471  | Narrator. You hear a voice in your head narrating all your actions. +2 Willpower.
 472  | Wizard Stains. You leave black greasy footprints even if you wear shoes.
 473  | Opalescent Shell. +2 Defense. Takes up 4 inventory slots. You can retreat inside it.
 474  | Draining Touch. Can drain 1d6 HP from a person to heal the same amount once per day.

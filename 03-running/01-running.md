@@ -40,7 +40,7 @@ to recover sight in one eye.
 **Concussed:** Dazed 1 round. 1-in-6 spell failure chance.  Initiative is
 halved.
 
-**Cracked:** Concussed 2d6 weeks. Save or permanently lose 1 point of Int, Wis,
+**Cracked:** Concussed 2d6 weeks. Save or permanently lose 1 point of Tal, Wil,
 or Cha (random). 30% chance of coma.  Characters in a coma get two chances to
 recover, after 1d6 days and 1d6 weeks.
 
@@ -62,7 +62,7 @@ knocks you Prone. Getting a disabled arm Disarms you.
 only a 50% chance to be dropped.
 
 **Dying:** You are unconscious and will die unless someone stabilizes
-you. Stabilizing someone requires rolling a d20 and getting half your Int or
+you. Stabilizing someone requires rolling a d20 and getting half your TAL or
 less, with a -1 penalty for every round spent Dying. Regaining any amount of HP
 will automatically stabilize you. If no one stabilizes you, you have a 10%
 chance of stabilizing yourself after an hour. Unstabilized characters die.

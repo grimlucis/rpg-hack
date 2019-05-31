@@ -47,11 +47,9 @@ A party moves at the speed of its slowest character.
 
 ### Initiative
 
-Your Initiative is equal to your Wisdom.  You roll it at the beginning of each
-combat round.  If you succeed, you act before the enemies.  If you fail, you act
-after them.Save Your Save is equal to 5 + level + Cha bonus (because Charisma
-describes willpower and destiny) up to a max of 15 + Cha bonus.  You roll it to
-test your fate: which basically boils down toresisting magic and getting lucky.
+Your Initiative is equal to your Willpower.  You roll it at the beginning of
+each combat round.  If you succeed, you act before the enemies.  If you fail,
+you act after them.
 
 ### Save
 
