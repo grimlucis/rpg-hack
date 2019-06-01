@@ -851,10 +851,12 @@ your talents spread beyond your hometown, attracting the attention of a master
 bard. Before you knew it, you had an instrument in hand, and were learning how
 to *really* sing.
 
-Talented bards can expect to perform for at least a warm bed and a hot meal;
-*really* talented bards are sought after by kings and noblemen. To be one of
-these, you'll need a song to sing; or rather, a repertoire. Where better to find
-stories of which to sing than on the road adventuring?
+Bards are less respectable than Skalds; they sing louder, bawdier songs for a
+lower class of audience. However, talented bards can expect to perform for at
+least a warm bed and a hot meal; *really* talented bards are sought after by
+kings and noblemen. To be one of these, you'll need a song to sing; or rather, a
+repertoire. Where better to find stories of which to sing than on the road
+adventuring?
 
 **Starting Equipment:** Instrument of choice, pile of assorted sheet music,
 parchment, quill and ink, earplugs for your party members
