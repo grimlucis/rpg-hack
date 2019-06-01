@@ -772,6 +772,66 @@ fallout to the end.
 
 ### The Clergy
 
+#### The Skald
+
+Wherever followers of the Pantheon go, they leave a certain class of
+warrior-poet behind. Their duty is to glorify the work of the gods, to record
+history and the deeds of the great, and to inspire future greatness.
+
+Skalds are some of the only non-spellcaster adventurers that can read and write,
+and they use this to record the deeds of the party and to recall songs of past
+triumphs. Skalds are well-respected and can usually wangle an audience with the
+great and the powerful.
+
+Though Skalds are primarily associated with the Pantheon, they can follow any
+gods except the Authority - for example, an Owl-folk Skald may sing of the deeds
+of the moon-gods, or a kobold Skald may spin yarns of great dragons.
+
+**Starting Equipment:** Arming sword, studded leather armor, half-filled book of
+epic poems, quill and ink.
+
+Template | Bonus
+---------|------------------------------
+A        | Song of Courage, Turn Undead
+B        | Propaganda of the Deed, Great Tale
+C        | Song of Might, +1 Fighting Style
+D        | Tapestry of Deeds, Song of Spells
+
+A Skald's active bonuses (powers) are called *songs*. Skalds can sing any
+individual song [level]*3 times per day. The song lasts 1d6 rounds, or 3 rounds
+if you consult your book of poems. If a Skald is prevented from singing through
+a silence spell, losing their tongue, being gagged etc they cannot use any
+special bonuses and essentially become regular fighters.
+
+**Song of Courage:** Any ally hearing your song is revitalized and given a
+second wind. They restore [level]d6 HP (maximum 4d6) and shake off minor status
+conditions such as stunning.
+
+**Turn Undead:** Any undead within earshot of your song must Save or:
+
+1. If they have the same or greater HD than you, be filled with overwhelming
+   supernatural dread and be forced to flee.
+2. If they have less HD than you, Save again; if they succeed they must flee, if
+   they fail, they crumble to dust.
+
+**Propaganda of the Deed:** Every time you crit against a class of enemies
+(monstrous humanoids, undead, etc), you gain +1 damage against them while
+singing this song, to a maximum of +6.
+
+**Great Tale:** When performing for one of noble birth, a warlord, a mighty
+magical creature etc, make a CHA check. If you pass, your tales of valor will
+please them greatly and the GM must reroll their reaction with a bonus equal to
+your CHA bonus + 2.
+
+**Song of Might:** Enemies hearing this song must instantly take a morale check
+at -2, even if they're winning the fight.
+
+**Tapestry of Deeds:** Your allies have a +2 to any checks - rolls against
+attributes, attack/defense rolls, etc - and your enemies a -2.
+
+**Song of Spells:** Anyone that hears your song must Save to cast magic spells
+or use abilities that rely on magic.
+
 ### The Rogues
 
 Many of the other adventurers have something special about them; a magical
