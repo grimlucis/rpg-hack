@@ -172,16 +172,17 @@ breakages with tally marks next to the armor on your character sheet.
 You roll Defense whenever an opponent tries to hit you, with a penalty derived
 from your opponent's Attack.  It is modified by Dexterity.
 
-   Armor   | Weight | Defense value
------------|--------|--------------
-Gambeson   | Light  |      11
-Leather    | Light  |      12
-Studded    | Light  |      13
-Chainmail  | Medium |      14
-Splintmail | Heavy  |      15
-Plate      | Heavy  |      16
+   Armor          | Weight | Defense value
+------------------|--------|--------------
+Gambeson (Padded) | Light  |      11
+Rawhide (Leather) | Light  |      12
+Lamellar (Studded)| Light  |      13
+Chainmail         | Medium |      14
+Splintmail        | Heavy  |      15
+Plate             | Heavy  |      16
 
-Chainmail cannot be made from bronze, and bronze plate only grants 15 Defense.
+Chainmail cannot be made from bronze, and bronze heavy armor has a -1 to
+Defense.
 
 Shields grant +1 Defense. Additionally, you can choose to sunder your shield to
 reduce incoming physical damage by 1d12 points.
