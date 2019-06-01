@@ -192,7 +192,7 @@ or your own death.
 Whatever it is, though the gates of hell stand in your way, you will blast them
 down and with your last breath seize your prize.
 
-**Starting Equipment:** Studded leather armor. Choice of weapon:
+**Starting Equipment:** Studded leather armor. Dagger. Choice of weapon:
 
 1. Bow, 20 arrows, shortsword.
 2. Shield, one-handed weapon (arming sword, mace, axe, etc.)
