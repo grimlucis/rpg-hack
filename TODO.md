@@ -8,10 +8,6 @@ Clergy & miracles/prayers
 
 -------------------------------------------------------------------------------
 
-Sort the magic list
-
--------------------------------------------------------------------------------
-
 Generate PDF from the text. See Pandoc example here https://pandoc.org/demos.html
 
 ```
