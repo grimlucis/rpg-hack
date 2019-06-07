@@ -149,3 +149,27 @@ The languages they speak are nameless and horrible, coming from the depths of
 the earth where mankind dare not tread. If you're lucky (1-in-6) a Mind Horror
 might speak Draconic, but all it'll have to say to you will be eagerness to
 devour your mind.
+
+### Trolls
+
+- 6+3 HD
+- Appearance: A disgusting biped two heads taller than even the tallest humanoid
+- Wants: To eat
+- Armor: as splintmail (+5)
+- Move: Normal
+- Morale: 10 (8)
+- Damage: 1d6 claws (2), 1d10 bite
+
+Trolls are monstrous and largely stupid humanoids that live under bridges and in
+wild forests and caves. Their diet consists of anything that moves, but they
+especially enjoy humanoid meat.
+
+A troll can be "killed" by normal means, but it will eventually regenerate from
+bones or hide (below 0 HP) within 2d6 rounds unless destroyed by acid or fire.
+The regeneration occurs during battle, as well - 3 rounds after it has taken
+damage, the troll will regenerate 3 HP per round, including severed limbs.
+
+When attacked by acid or fire, a troll's morale score is 8 rather than 10.
+
+For some reason, trolls are deathly afraid of billy goats and will run away from
+them on sight, and thus goatherds are highly valued in troll-infested lands.
