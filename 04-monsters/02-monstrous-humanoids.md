@@ -114,42 +114,6 @@ They have a special hatred for magic and magic-users, so beware if you cast a
 spell in the presence of a Sea Devil pack, as they may focus on you. This extends
 especially to the Fey, whom they hate most of all and will attack on sight.
 
-### Mind Horrors
-
-- 8+4 HD
-- Appearance: Purplish-black of skin, a horrifying mass of tentacles for a head,
-  this tall and fearsome humanoid reaches out its clawed hands and stares from
-  unblinking dead-white eyes
-- Wants: power, to devour the minds of the living
-- Armor: as splintmail (+5)
-- Move: Normal
-- Morale: 10
-- Damage: Weapon; 1d6 claw; devour mind; psionic blast
-
-An intensely evil creature from the bowels of the earth, if not Hell itself, the
-Mind Horror is of genius intelligence and its psionic powers are unmatched. To
-gather more power it devours the minds of intelligent or wilful creatures, which
-it does by burrowing into the opponent's skull with its horrifying tentacles.
-
-If struck in the head by a tentacle, in 1d4 rounds the Mind Horror will shut
-down all functionality in the victim's mind and split the skull open, ready to
-devour the brain. This can be avoided by distracting the Mind Horror in some
-such way that it releases its grip on its prey; powerful illusion magic, a
-psionic or magical counterattack, or a simple blow with a melee weapon will do
-this.
-
-A Mind Horror can also attack with a blast of psionic energy. Enemies caught in
-a 60' long cone in front of the Mind Horror must Save or be stunned for 3d4
-rounds.
-
-A pack of Mind Horrors are quite confident, but they will flee if the encounter
-is going against them, being cowardly and trying to guard their own life.
-
-The languages they speak are nameless and horrible, coming from the depths of
-the earth where mankind dare not tread. If you're lucky (1-in-6) a Mind Horror
-might speak Draconic, but all it'll have to say to you will be eagerness to
-devour your mind.
-
 ### Trolls
 
 - 6+3 HD

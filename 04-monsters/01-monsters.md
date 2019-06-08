@@ -6,13 +6,15 @@ is a reason they live in cities and hide behind walls.
 
 Monsters are arranged into categories:
 
-- Monstrous Humanoids
-- Undead
-- Wild animals
-- Dungeon Creatures
-- Dragons
-- Devils
-- Demons
+1. Monstrous Humanoids
+2. Undead
+3. Wild animals
+4. Dungeon Creatures
+5. Outsiders
+6. Elementals
+7. Dragons
+8. Devils
+9. Demons
 
 Monster stat blocks are a lot simpler than character sheets. Instead of a HP
 value, monsters get Hit Dice (HD); roll their HP as (HD)d8. This is roughly

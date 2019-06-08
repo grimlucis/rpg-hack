@@ -555,7 +555,7 @@ cause you to pop. Lose 1d6 STR that cannot be recovered while you are an
 illusion, and reform the next morning nearby. Illusions are real to you.
 
 This doom can be avoided by journeying into the mirror-realm and eating one of
-the eyes of the Eye Tyrants found there, or performing the Ritual of Prismax; a
+the eyes of the Floating Eyes found there, or performing the Ritual of Prismax; a
 duel to the death against three of your mirror selves, fought in a neutral
 battlefield.
 
