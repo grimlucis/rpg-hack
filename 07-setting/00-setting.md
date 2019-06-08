@@ -1,5 +1,36 @@
 # Setting
 
+## Moongates
+
+Allegedly built by the owl-folk's ancestors, moongates are circular portals
+which appear throughout the lands. Usually they are inactive, and are simply
+stone circles; however, during certain moon phases (depending on the gate) they
+will spring to life. If you sit by a moongate as the night approaches during its
+active phase, at sunset as the light fades around you the moongate will glow and
+the inside of the circle will be replaced by a shining white surface. Once the
+sun sets, and as it creeps closer to twilight, the light will fade. At thirty
+minutes to midnight, the light will have dissipated completely, and a
+destination will be visible through the moongate.
+
+From 23:30 to 00:30, you can use active moongates to travel. Passing through a
+moongate will essentially teleport any creature that can fit to a paired
+moongate somewhere else on the planet. Certain very large and very secluded
+moongates even lead to other planets, planes, or universes; such a moongate will
+only be active for one day a year, and will attract powerful magical creatures
+such as elementals, demons, and outsiders.
+
+Trained astrologers, witches with proper equipment, and owl-folk spellcasters
+can find moongates through scrying or consulting astrological charts. Knowledge
+of moongates near civilization is a closely guarded secret, for fear of armies
+marching through them. Many moongates are protected by magical servants,
+powerful enchantments, or territorial creatures.
+
+Moongates that are destroyed by any means - magical or otherwise - will reappear
+by fading into existence at midnight after a year and a day. Furthermore, once
+the moongate has reformed, a curse will be placed on the creature responsible
+and its companions; owl-folk will always be hostile to them, and they are more
+likely to become feral werecreatures.
+
 ## Civilized folk
 
 Most civilized folk live in cities, towns, and villages. There is a fairly high
