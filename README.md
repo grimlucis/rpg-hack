@@ -21,6 +21,7 @@ Planned chapters:
 
 An annoying process, but:
 
-1. Get xelatex
-2. Get the latest pandoc; downloads available here: https://github.com/jgm/pandoc/releases/tag/2.7.2
-3. Use the Makefile
+1. Install Noto fonts (to get CJK in the magic chapter displayed correctly)
+2. Get xelatex
+3. Get the latest pandoc; downloads available here: https://github.com/jgm/pandoc/releases/tag/2.7.2
+4. Use the Makefile
