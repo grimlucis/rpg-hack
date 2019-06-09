@@ -3,8 +3,8 @@
 Compiled by [the Princess Japanoise](https://github.com/japanoise) and licensed
 under a CC-BY-SA license.
 
-Some content (monster stuff, currency conversion table, etc) is from OGL
-content; see the Open Gaming License in the appendix.
+Some content (monster stuff, currency conversion table, treasure types, etc) is
+from OGL content; see the Open Gaming License in the appendix.
 
 GLOG original rules and concept by Arnold Kemp at [Goblin
 Punch.](https://goblinpunch.blogspot.com/)
@@ -31,6 +31,9 @@ Land.](https://crateredland.blogspot.com/)
 Punk Rock genre from [Same Is Shark In Japanese.](https://sameissharkinjapanese.blogspot.com/)
 
 Vaporwave genre from [A Swamp In Space.](https://aswampinspace.blogspot.com)
+
+Gemstone tables adapted from [Old Dungeon
+Master](https://olddungeonmaster.com/2012/06/10/gems/)
 
 Thanks to the OSR community for helping with:
 
