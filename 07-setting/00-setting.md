@@ -52,9 +52,9 @@ Humans are mid-sized, bipedal, and have opposable thumbs. Their body hair is
 thin, except on their head, face, and eyebrows, and can be black, brown, golden,
 orange, grey, or white. Their eyes can be blue, grey, brown, green, or rarely
 red, and their skin ranges in color from whitish to dark brown. Pregnant humans
-give birth to one, or rarely two or rarer still three, babies after 9 months. A
-human baby is full grown between 16 and 18, and in ideal conditions lives to the
-age of 80.
+give birth to one, or rarely (1 in 30) two or rarer still (1 in 1000) three,
+babies after 9 months. A human baby is full grown between 16 and 18, and in
+ideal conditions lives to the age of 80.
 
 Humans are the most numerous race, and are proud of their diversity and
 heritage. Younger than the fey, and more technologically inclined, they have
