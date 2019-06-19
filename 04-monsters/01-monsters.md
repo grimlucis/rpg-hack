@@ -31,5 +31,5 @@ You may see a monster like this:
 
 >Giant Clam, HD2+7, ...
 
-This means that the Giant Clam is really tough (9 HD) but
-cannot attack that well (fights as 2 HD).
+This means that the Giant Clam is really tough (2d8+7 HP) but cannot attack that
+well (fights as 2 HD).
