@@ -38,6 +38,9 @@ Vaporwave genre from [A Swamp In Space.](https://aswampinspace.blogspot.com)
 Gemstone tables adapted from [Old Dungeon
 Master](https://olddungeonmaster.com/2012/06/10/gems/)
 
+"My Bleeding Scars" font by Jess Latham at [Blue Vinyl
+fonts](http://www.bvfonts.com)
+
 Thanks to the OSR community for helping with:
 
 - Stat blocks for monsters

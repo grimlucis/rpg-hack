@@ -22,6 +22,9 @@ Planned chapters:
 An annoying process, but:
 
 1. Install Noto fonts (to get CJK in the magic chapter displayed correctly)
+   and optionally the provided TTF file for the cover font.
 2. Get xelatex
 3. Get the latest pandoc; downloads available here: https://github.com/jgm/pandoc/releases/tag/2.7.2
 4. Use the Makefile
+5. (optional) Render the cover to png by making `cover.png`; you'll need the 
+   font and imagemagick installed.

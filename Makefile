@@ -7,5 +7,8 @@ glog.pdf: ${FILES}
 glog.md: ${FILES}
 	awk 'FNR==1{print ""}1' $^ > $@
 
+cover.png: pentagram.svg
+	convert $^ $@
+
 clean:
 	rm -rf glog.md glog.pdf
