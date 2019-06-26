@@ -6,6 +6,9 @@ under a CC-BY-SA license.
 Some content (monster stuff, currency conversion table, treasure types, etc) is
 from OGL content; see the Open Gaming License in the appendix.
 
+Pentagram SVG originally from [Wikimedia
+Commons.](https://commons.wikimedia.org/wiki/File:Pentagram4.svg)
+
 GLOG original rules and concept by Arnold Kemp at [Goblin
 Punch.](https://goblinpunch.blogspot.com/)
 
