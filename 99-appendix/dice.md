@@ -84,3 +84,65 @@ d16  | No        | Yes     | Roll a d8 and flip a coin. If tails, add 8.
 d20  | Yes       | No      | Roll a d10 and flip a coin. If heads, take the value of the d10. If tails, add ten to it.
 d24  | No        | Yes     | Roll a d12 and flip a coin. If tails, add 12.
 d50  | No        | No      | Roll 1d5 (tens) and 1d10 (units) in the same way as percentile d10s (taking 5 on the d5 as 0, and a double 0 as 50)
+
+### Playing the GLOG with d6s only
+
+Six-sided dice are the most common dice, and are easily obtained. So, it makes
+sense that rules should exist for playing with only d6s. The distributions are
+skewed, but the game can still be played.
+
+Die | Alternative
+----|------------
+1d4 | 1d6, reroll on 5 or 6
+1d8 | 1d6+1
+1d10| 2d6, reroll on 11 or 12
+1d12| 1) 2d6 2) Use the method described below
+1d20| 1) 3d6 2) Use the method described below
+
+#### 2d6 d20 method
+
+If you want to roll a d20 using only six-sided dice, this method will do.
+
+Roll 2d6, and using the face value of the two dice, look up the value on the
+table (order is not important).
+
+ ~ | 1 |  2 |  3 |  4 |  5 |  6
+---|---|----|----|----|----|----
+1  | 1 |  2 |  3 |  4 |  5 |  6
+2  | 2 |  7 |  8 |  9 | 10 | 11
+3  | 3 |  8 | 12 | 13 | 14 | 15
+4  | 4 |  9 | 13 | 16 | 17 | 18
+5  | 5 | 10 | 14 | 17 | 19 | 20
+6  | 6 | 11 | 15 | 18 | 20 |  1
+
+The probabilities aren't *quite* the same as rolling 1d20 (most numbers appear
+twice, whereas 7, 12, 16, and 19 appear only once) but they're good enough.
+If you want to try it on AnyDice, here's the formula:
+
+	output d{1..20, 1..6, 8..11, 13..15, 17..18, 20} named "2d6 '1d20'"
+	output 1d20 named "True 1d20"
+
+#### 1d66 d12 method
+
+Since 12*6=36, a d66 can simulate a d12 perfectly.
+
+d66|d12|d66|d12
+---|---|---|---
+11 |  1|41 | 7
+12 |  1|42 | 7
+13 |  1|43 | 7
+14 |  2|44 | 8
+15 |  2|45 | 8
+16 |  2|46 | 8
+21 |  3|51 | 9
+22 |  3|52 | 9
+23 |  3|53 | 9
+24 |  4|54 | 10
+25 |  4|55 | 10
+26 |  4|56 | 10
+31 |  5|61 | 11
+32 |  5|62 | 11
+33 |  5|63 | 11
+34 |  6|64 | 12
+35 |  6|65 | 12
+36 |  6|66 | 12
