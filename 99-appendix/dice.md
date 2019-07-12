@@ -95,7 +95,7 @@ Die | Alternative
 ----|------------
 1d4 | 1d6, reroll on 5 or 6
 1d8 | 1d6+1
-1d10| 2d6, reroll on 11 or 12
+1d10| 2d6-1, reroll on 11
 1d12| 1) 2d6 2) Use the method described below
 1d20| 1) 3d6 2) Use the method described below
 
