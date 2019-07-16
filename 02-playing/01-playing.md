@@ -151,8 +151,9 @@ knight-killing weapons.
 
 #### Breakage
 
-If you make an Attack or Defense roll which is *almost* a critical miss (a
-natural 19) you risk breaking your weapon or armor. The chance it breaks depends
+If you make an Attack roll which is *almost* a critical miss (a natural 19) or
+your opponent makes an Attack roll which is *almost* a critical success (a
+natural 2) you risk breaking your weapon or armor. The chance it breaks depends
 on its quality:
 
 - Fragile weapons, for example improvised weapons or the bronze weaponry the Fey
@@ -169,8 +170,7 @@ breakages with tally marks next to the armor on your character sheet.
 
 ### Defense
 
-You roll Defense whenever an opponent tries to hit you, with a penalty derived
-from your opponent's Attack.  It is modified by Dexterity.
+Defense values are as follows:
 
    Armor          | Weight | Defense value
 ------------------|--------|--------------
