@@ -88,8 +88,20 @@ d50  | No        | No      | Roll 1d5 (tens) and 1d10 (units) in the same way as
 ### Playing the GLOG with d6s only
 
 Six-sided dice are the most common dice, and are easily obtained. So, it makes
-sense that rules should exist for playing with only d6s. The distributions are
-skewed, but the game can still be played.
+sense that rules should exist for playing with only d6s.
+
+For ability score checks, roll 3d6 under.
+
+For attack rolls, roll 1d6:
+
+- Everyone hits on 1-3
+- Fighters hit on a 1-4
+- Light armor make this 1 point easier (1-4 or 1-5)
+- Heavy armor makes it 1 point worse (1-2 or 1-3)
+- Automatically hit unarmoured targets
+
+If you don't want to use the alternate method, you can use the conversion system
+detailed below. The distributions are skewed, but the game can still be played.
 
 Die | Alternative
 ----|------------
